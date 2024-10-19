@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Реальная история Европы</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<!--THIS IS MAIN PAGE-->
+<!--DARK THEME-->
+
+
+
+<div class = "header">
+    <div class = "upper-header">
+        <div class = uphead-void-left><p> </p></div>
+        <div class = "upheadll">
+            <img src="images/logo.png" alt="logo.png">
+        </div>
+        <div class = "upheadlp">
+            <a href="about:blank">RealHistoryEu</a>
+            <p>(Не)реальная история Европы</p>
+        </div>
+        <!-- <div class = "upheadcenter">
+
+        </div> -->
+        <div class = "upheadright">
+            <a href="about:blank"><img src="images/youtube.svg" alt="yt"></a> <!-- youtube -->
+            <a href="about:blank"><img id = "rutube" src="images/rutube.png" alt="rt"></a>
+            <a href="about:blank"><img src="images/telegram.png" alt="tg"></a> <!-- telegram -->
+            <a href="about:blank"><img src="images/discord.png" alt="ds"></a> <!-- discord -->
+            <a href="about:blank"><img src="images/vk.png" alt="vk"></a> <!-- vk -->
+            <a href="https://zoomquilt.org/"><img src="images/extra-button.png" alt="?"></a> <!-- extra button -->
+            <p>наши соцсети</p>
+        </div>
+        <div class = "upheadpreright">
+            <a href="indexlt.html"><img src="images/sun.png" alt=""></a>
+        </div>
+        <div class = "uphead-void-right"><p> </p></div>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class = "left-void">
+    <br>
+</div>
+<div class = "leftaside">
+    <p>Статьи:</p>
+    <a href="about:blank"><p>Страны</p></a>
+    <a href="about:blank"><p>Союзы</p></a>
+    <a href="about:blank"><p>Военная техника</p></a>
+    <a href="about:blank"><p>Военные песни</p></a>
+</div>
+<div class="content">
+    <div class = "countries">
+        <p id = "marginx-1">Страны:</p>
+        <a id = "exists" href="about:blank"><p>ДНР</p></a>
+        <a id = "exists" href="about:blank"><p>ЛНР</p></a>
+        <a id = "exists" href="about:blank"><p>Ватикан</p></a>
+        <a id = "exists" href="about:blank"><p>Сан-Марино</p></a>
+        <a id = "exists" href="about:blank"><p>Орден Бекташи</p></a>
+        <a id = "exists" href="about:blank"><p>Силенд</p></a>
+        <a id = "exists" href="about:blank"><p>Приднестровье</p></a>
+        <a id = "exists" href="about:blank"><p>Комары</p></a>
+    </div>
+</div>
+<div class="rightaside">
+    <p>dsfsdfdsfds</p>
+</div>
+<div class = "right-void">
+    <br>
+</div>
+<div class="clear"></div>
+</body>
+</html>
